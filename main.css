@@ -1,0 +1,38 @@
+.navbar-nav .nav-link:hover {
+    color: #fff;            /* Change text color */
+    background-color: gainsboro;
+}
+.x h2{
+    text-align: center;color:aliceblue;padding-top: 80px;
+}
+.x p{
+    text-align: center;
+    color: gray;
+    opacity: 0.9;
+}
+.modal-header{
+    border:10px green solid;
+    background-color: green;
+
+}
+.modal-header h4{
+    padding-left:160px;
+}
+.y h2{
+    text-align: center;color:black;padding-top: 80px;
+
+}
+.y p{
+    text-align: center;
+    color: gray;
+    opacity: 0.9;
+}
+
+
+.z{
+    color:aliceblue;
+  }
+  .z:hover {
+    color: red;
+  }
+  
